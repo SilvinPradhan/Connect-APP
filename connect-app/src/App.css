@@ -1,2 +1,8 @@
 /* Using Semantic-UI */
 /* So we do not need all of the CSS on this file :) */
+.page-title{
+    display: block!important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+}
