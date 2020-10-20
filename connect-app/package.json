@@ -13,6 +13,7 @@
     "apollo-link-http": "^1.5.17",
     "graphql": "^15.3.0",
     "graphql-tag": "^2.11.0",
+    "jwt-decode": "^3.0.0",
     "moment": "^2.29.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
