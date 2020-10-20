@@ -8,7 +8,6 @@ const {
   validateLoginInput,
 } = require("../../util/validators");
 const { SECRET_KEY } = require("../../config");
-const { isLogin } = require("ionic");
 
 function generateToken(user) {
   return jwt.sign(

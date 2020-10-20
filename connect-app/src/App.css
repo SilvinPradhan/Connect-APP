@@ -1,7 +1,8 @@
 /* Using Semantic-UI */
 /* So we do not need all of the CSS on this file :) */
 .page-title{
-    display: block!important;
+    box-sizing: border-box !important;
+    display: block !important;
     text-align: center;
     font-size: 2rem;
     margin-top: 10px;
@@ -10,4 +11,10 @@
 .form-container {
     width: 400px;
     margin: 0 auto;
+}
+
+.sideLink {
+    display: flex;
+    float: right;
+    flex-direction: column;
 }
